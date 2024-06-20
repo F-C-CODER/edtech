@@ -1,0 +1,98 @@
+
+body{
+    background-color: #D251D8;
+}
+.header{
+    background-color: green;
+    text-align: center;
+}
+.header p{
+    color:white;
+    font-size: 20px;
+    display:inline;   
+}
+.header button{
+
+    border-radius: 20px;
+    height:20px;
+    margin-left: 30px;
+    margin-bottom: 8px;
+    
+}
+.menu{
+    text-align: center;
+    margin-top: 50px;
+    
+}
+
+.menu a{
+    color: yellow;
+    margin-left:20px;
+    font-size: 25px;
+    text-align: justify;
+  
+}
+.menu button{
+    width:100px;
+    height:30px;
+    border-radius: 10px;
+    background-color: #D251D8;
+    border: 2px solid yellow;
+    color:yellow;
+    margin-left:20px
+}
+
+.menu img{
+    position:absolute;
+    left:150px;
+    top:50px
+}
+
+.images{
+    float:left;
+    width:50%;
+    height:500px;
+    margin:40px;
+    position:relative;
+}
+.events{
+    
+    margin-top: 40px;
+    text-align: center;
+    background-color: azure;
+    width:500px;
+    height:500px;
+    float:right;
+    border-radius:20px;
+    margin-right: 40px;
+}
+.mode button{
+    border-radius: 10px;
+    width:200px;
+    height:30px;
+    border:2px solid grey
+}
+.events input{
+    border-radius: 10px;
+    width:400px;
+    height:30px;
+    border:2px solid grey;
+    padding:5px;
+    margin:5px
+}
+.events>button{
+    background-color:orangered ;
+    border-radius: 10px;
+    width:400px;
+    height:50px;
+    border:2px solid grey;
+    color:white;
+    font-weight: bold;
+    font-size: 25px;
+}
+.sub-footer{
+    text-align: center;
+    clear:both;
+    font-weight: bold;
+    font-size: 20px;
+}
